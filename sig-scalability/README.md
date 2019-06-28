@@ -25,6 +25,13 @@ The Chairs of the SIG run operations and processes governing the SIG.
 * Shyam Jeedigunta (**[@shyamjvs](https://github.com/shyamjvs)**), AWS
 * Wojciech Tyczynski (**[@wojtek-t](https://github.com/wojtek-t)**), Google
 
+## Members
+
+* Janek Lukasiewicz (**[@oxddr](https://github.com/oxddr)**), Google
+* Krzysztof Siedlecki (**[@krzysied](https://github.com/krzysied)**), Google
+* Maciej Borsz (**[@mborsz](https://github.com/mborsz)**), Google
+* Matt Matejczyk (**[@mm4tt](https://github.com/mm4tt)**), Google
+
 ## Contact
 * [Slack](https://kubernetes.slack.com/messages/sig-scalability)
 * [Mailing list](https://groups.google.com/forum/#!forum/kubernetes-sig-scale)
